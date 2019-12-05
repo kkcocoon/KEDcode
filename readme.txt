@@ -1,6 +1,6 @@
 
 Please download CAS-PEAL dataset first: 
-http://kkcocoon.gotoip2.com/downloadt/db_PEAL.zip
+http://118.25.77.162/static/db_PEAL.mat
 and run main_KED_PEAL.m
 
 If you find this tool useful, please cite it as
