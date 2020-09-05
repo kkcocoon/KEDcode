@@ -1,6 +1,9 @@
 
 Please download CAS-PEAL dataset first: 
-http://118.25.77.162/static/db_PEAL.rar
+
+Link: https://pan.baidu.com/s/1EZ_BY3vVtcV0KycBFWlHzA 
+Extract code: 3lxi
+
 and run main_KED_PEAL.m
 
 If you find this tool useful, please cite it as
